@@ -1,0 +1,4 @@
+railsinstallerdemo
+==================
+
+rails installer demo
